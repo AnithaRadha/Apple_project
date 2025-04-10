@@ -1,4 +1,3 @@
-
 Analyzing Millions of Apple Retail Sales Rows with SQL
 ![image](https://github.com/user-attachments/assets/dd7666d3-aec4-4237-9e42-b07c82d5bf88)
 
